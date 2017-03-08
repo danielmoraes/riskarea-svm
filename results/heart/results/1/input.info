@@ -1,0 +1,2 @@
+dataset: heart
+validation: 5x2cv

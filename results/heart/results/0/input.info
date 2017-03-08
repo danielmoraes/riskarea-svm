@@ -1,0 +1,2 @@
+dataset: heart
+validation: train (80%) x test(20%), with random stratified selection
