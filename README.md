@@ -1,6 +1,8 @@
 Risk Area SVM
 =============
 
+Consider reading our [published paper](http://www.sciencedirect.com/science/article/pii/S1047320316300116) before playing with the code.
+
 Getting Started
 ---------------
 
